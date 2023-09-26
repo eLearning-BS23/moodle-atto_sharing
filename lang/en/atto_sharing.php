@@ -33,7 +33,7 @@ $string["sharingcontent"] = 'QR code content';
 $string["insertsharing"] = 'Insert Sharing Button';
 $string["backgroundcolor"] = 'Background color (RGBA)';
 $string["forgroungcolor"] = 'Foreground color (RGBA)';
-
+$string['privacy:metadata'] = 'The Atto Sharing plugin does not store any personal data.';
 
 $string["facebook"] = 'Facebook Share';
 $string["linkedin"] = 'Linkedin Share';
