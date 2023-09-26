@@ -37,6 +37,6 @@ $string["forgroungcolor"] = 'Foreground color (RGBA)';
 
 $string["facebook"] = 'Facebook Share';
 $string["linkedin"] = 'Linkedin Share';
-$string["twiter"] = 'Twiter Share';
-$string["googleplus_share"] = 'Gooele Plus Share';
+$string["twiter"] = 'Twitter Share';
+$string["googleplus_share"] = 'Google Plus Share';
 $string["url"] = 'Sharing URL';
