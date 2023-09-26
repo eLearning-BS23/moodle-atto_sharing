@@ -40,3 +40,4 @@ $string["linkedin"] = 'Linkedin Share';
 $string["twiter"] = 'Twitter Share';
 $string["googleplus_share"] = 'Google Plus Share';
 $string["url"] = 'Sharing URL';
+$string['privacy:metadata'] = 'The Atto Sharing plugin does not store any personal data.';
